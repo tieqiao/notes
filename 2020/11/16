@@ -1,2 +1,7 @@
 1. ubuntu 换源
 https://mirrors.ustc.edu.cn/repogen/
+
+2. crontab 使用
+https://www.runoob.com/linux/linux-comm-crontab.html
+* * * * *  export DISPLAY=:0.0;/opt/google/chrome/google-chrome 'www.baidu.com'
+crontab [ -u user ] { -l | -r | -e }
