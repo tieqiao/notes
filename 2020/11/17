@@ -1,0 +1,6 @@
+1. CMake 编译时报错 ninja: error: ......missing and no known rule to make it
+https://blog.csdn.net/jhl122/article/details/85855389
+${}
+
+2. hello-libs is a sample that shows you how to manage 3rd party C/C++ libraries with Android Studio.
+https://github.com/android/ndk-samples/tree/840858984e1bb8a7fab37c1b7c571efbe7d6eb75/hello-libs
