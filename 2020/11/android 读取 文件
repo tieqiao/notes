@@ -1,0 +1,12 @@
+1.adk 路径 into path
+vi .bashrc
+export PATH="$PATH:$HOME/bin:/home/xx/Android/Sdk/platform-tools/"
+bash
+adk
+2.adk push 本地系统
+adb push /home/xx/xxxxxx.tflite /sdcard/Download/
+3.android studio 开权限
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+Android 界面 AndroidManifest.xml
+
+4.虚拟机中打开应用的读取权限
