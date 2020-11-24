@@ -1,3 +1,8 @@
 adb logcat
 adb logcat | grep ErrorProcessor
 adb logcat -c 
+
+
+---
+1. 论Android 9.0 外置sdcard 读写
+https://blog.csdn.net/qq_36467463/article/details/88691726
