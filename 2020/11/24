@@ -1,0 +1,3 @@
+adb logcat
+adb logcat | grep ErrorProcessor
+adb logcat -c 
