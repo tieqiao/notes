@@ -1,0 +1,10 @@
+1.view 
+2.tool windows 
+3.logcat
+
+可以追溯到错误日志
+
+----
+
+dlopen failed: library "libc++_shared.so" not found
+https://blog.csdn.net/qq_35953420/article/details/102629070
