@@ -1,0 +1,5 @@
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/tools/benchmark
+
+TFLite Model Benchmark Tool with C++ Binary
+
+https://github.com/tensorflow/tensorflow/issues/43541
