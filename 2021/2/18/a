@@ -1,0 +1,5 @@
+https://linuxize.com/post/how-to-use-linux-screen/
+screen -ls
+screen -S nice
+ctrl+a+d
+screen -r nice
