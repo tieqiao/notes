@@ -4,3 +4,5 @@ https://en.wikipedia.org/wiki/Hungarian_algorithm
 而特定的cuda会对NVIDIA的驱动有要求
 
 这样在驱动版本确定的情况下, cuda的版本就确定, 也随之确定了tensorflow的版本
+
+https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
