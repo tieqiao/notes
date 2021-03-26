@@ -1,2 +1,5 @@
 1. pytorch dataloader
 https://pytorch.org/docs/stable/data.html
+
+2. pytorch imagefolder
+https://pytorch.org/vision/stable/datasets.html#imagefolder
