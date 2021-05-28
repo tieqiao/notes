@@ -1,0 +1,9 @@
+1. linux 无 声音
+https://ubuntuforums.org/showthread.php?t=2344510
+
+you're missing the kernel sound module (probably as a result of something you did to try to fix your issue). Try reinstalling kernel image and loading sound module manually:
+Code:
+sudo update-pciids
+sudo apt-get install --reinstall linux-image-`uname -r`
+sudo modprobe -v snd-hda-intel
+pulseaudio -k&
