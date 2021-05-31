@@ -1,3 +1,6 @@
 1. AP 聚类
 https://zhuanlan.zhihu.com/p/51665667
 https://scikit-learn.org/stable/modules/clustering.html#affinity-propagation
+
+2. 空间 占用 top10
+du -am | sort -nr | head -n 10
